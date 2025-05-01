@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "589949874691",
+    "project_id": "pruebados-5012d",
+    "storage_bucket": "pruebados-5012d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589949874691:android:82de98dd0c880dc5aa1436",
+        "android_client_info": {
+          "package_name": "com.tuapp.pruebados"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2cRcf9sUBGcg1dwLxEfLNGXHI5_CQEIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
